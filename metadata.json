@@ -1,0 +1,5 @@
+{
+  "name": "无限导演 (The Unlimited Director) - AI 分镜大师",
+  "description": "顶级 AI 动画分镜工具，利用 Gemini 3 Pro 将剧本转化为导演级视觉提示词与逐镜头分解。",
+  "requestFramePermissions": []
+}
